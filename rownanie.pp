@@ -1,5 +1,4 @@
 Program rownianie_kwadratowe;
-  {to jest test}
   
 var
   a, b, c : Real;
